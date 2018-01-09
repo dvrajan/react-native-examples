@@ -28,4 +28,4 @@ export default class MyApp extends Component {
 }
 
 //Usage
-// <MyText title='hey' color='green' />
+// <MyApp title='hey' color='green' />
